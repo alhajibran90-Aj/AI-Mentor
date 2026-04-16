@@ -29,5 +29,4 @@ AI Mentor is a generative AI application designed to help learners of all levels
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/alhajibran90-Aj/AI-Mentor.git](https://github.com/alhajibran90-Aj/AI-Mentor.git)
-   cd AI-Mentor
+   git clone [https://github.com/alhajibran90-Aj/AI-Mentor.git](https://github.com/alhajibran90-Aj/AI-Mentor.git)cd AI-Mentor
